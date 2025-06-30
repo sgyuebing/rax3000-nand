@@ -17,4 +17,4 @@
 sed -i '$a src-git mmdvm https://github.com/qzyuebing/mmdvm-openwrt' feeds.conf.default
 #sed -i '$a src-git mmdvm https://github.com/lazywalker/mmdvm-openwrt' feeds.conf.default
 sed -i '$a src-git pptp https://github.com/xkstudio/luci-app-pptp-server' feeds.conf.default
-sed -i '$a src-git mesh https://github.com/ntlf9t/luci-app-easymesh package/luci-app-easymesh' feeds.conf.default
+sed -i '$a src-git mesh https://github.com/ntlf9t/luci-app-easymesh' feeds.conf.default
